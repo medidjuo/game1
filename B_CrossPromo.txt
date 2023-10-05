@@ -1,0 +1,11 @@
+gameTitleBeginGTA 6gameTitleEnd
+
+
+
+newGameIconUrlBeginhttps://play-lh.googleusercontent.com/F57lmHYTXhu5jwbXIM9IY5c7alZ3NQTLB-vkVo38q9ot8FURb2I4WIEQJwfe2Tfd4A=w240-h480newGameIconUrlEnd
+
+
+newGameDownloadUrlBeginhttps://play.google.com/store/apps/details?id=gangsterGTA.theft_mcpeminecraftnewGameDownloadUrlEnd
+
+
+showPopupBeginYESshowPopupEnd               YES to show Popup, other to hide Popup
